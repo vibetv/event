@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TES CHANNEL" , Bein Sports 1
-https://ge1.livechymde.xyz/hls1/uk_beinsportsenglish1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/enwruj1653500855.jpg" group-title="NBA" , New Orleans Pelicans vs Memphis Grizzlies - 07.30 WIB
+https://wswanata.azureedge.net/live/NBA1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/nk5jl41653500847.jpg" group-title="NBA" , Dallas Mavericks vs Los Angeles Clippers - 08.30 WIB
+https://wswanata.azureedge.net/live/NBA2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/w1gder1653500828.jpg" group-title="NBA" , Utah Jazz vs New York Knicks - 09.30 WIB
+https://wswanata.azureedge.net/live/NBA3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/qkmnf41635072455.jpg" group-title="NBA" , Portland Trail Blazers vs San Antonio Spurs - 10.00 WIB
+https://wswanata.azureedge.net/live/NBA79/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/cz1m1q1653500814.jpg" group-title="NBA" , Sacramento Kings vs Brooklyn Nets - 10.00 WIB
+https://wswanata.azureedge.net/live/NBA1/playlist.m3u8
