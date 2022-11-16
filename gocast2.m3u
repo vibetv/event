@@ -1,26 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Uni Emirat Arab vs Argentina
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Andorra vs Austria
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="90phut6" , Andorra vs Austria
 https://go1.gocast2.com:999/hls/do15.m3u8?md5=yJoGgLDIIwlBnVqhFeDQZQ&expires=1668624228
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Kosovo vs Armenia
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Moldova vs Azerbaijan
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Oman vs Jerman
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Polandia vs Cili
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Republik Ceko vs Kepulauan Faroe
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Turki vs Skotlandia
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Gibraltar vs Liechtenstein
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Siprus vs Bulgaria
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Aljazair vs Mali
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Meksiko vs Swedia
-
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹" , Albania vs Italia
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="90phut6" , Oman vs Jerman
+https://go2.gocast2.com:999/hls/do13.m3u8?md5=IUFmdNZDT2aUWqXJOrh-KA&expires=1668627551
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="90phut6" , Polandia vs Cili
+https://go2.gocast2.com:999/hls/do5.m3u8?md5=EBTuJJa95XhdDRPR0un5ig&expires=1668627590
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="90phut6" , Turki vs Skotlandia
+https://go2.gocast2.com:999/hls/do11.m3u8?md5=bFkbnrE4QPPtutVrjkPHeA&expires=1668627615
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="90phut6" , Siprus vs Bulgaria
+https://go2.gocast2.com:999/hls/do23.m3u8?md5=BR0gsPS4V9AmC9Mh4QCPbQ&expires=1668627633
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="90phut6" , Albania vs Italia
+https://go1.gocast2.com:999/hls/do12.m3u8?md5=Bu2DmW78Qwsl7Am1Uq47Dg&expires=1668627637
